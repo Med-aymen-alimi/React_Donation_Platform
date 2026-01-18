@@ -19,4 +19,4 @@ This repository contains the **React frontend** for a decentralized donation pla
 
 1. Clone the repository:  
    ```bash  
-   cd blockchain-donation-interface  
+   git clone https://github.com/Med-aymen-alimi/React_Donation_Platform.git
